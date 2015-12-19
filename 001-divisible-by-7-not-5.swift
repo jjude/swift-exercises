@@ -10,6 +10,12 @@ Uses:
  - convert int to string
  - map
  - join elements of array with a separator
+
+Author:
+ - Joseph Jude (tech.jjude.com / @jjude)
+
+Blog Post:
+ - http://tech.jjude.com/swift-challenge-001
 */
 
 var output: [Int] = []

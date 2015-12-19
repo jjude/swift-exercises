@@ -8,6 +8,12 @@ Uses:
   - get characters of a string
   - reverse an array
   - string comparison
+
+Author:
+ - Joseph Jude (tech.jjude.com / @jjude)
+
+Blog Post:
+ - http://tech.jjude.com/swift-challenge-002
 */
 
 print("Enter a string: ")
