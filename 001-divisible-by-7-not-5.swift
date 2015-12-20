@@ -12,7 +12,10 @@ Uses:
  - join elements of array with a separator
 
 Author:
- - Joseph Jude (tech.jjude.com / @jjude)
+ - Joseph Jude (jjude.com / @jjude)
+
+Git Repo:
+ - http://github.com/jjude/swift-exercises
 
 Blog Post:
  - http://tech.jjude.com/swift-challenge-001

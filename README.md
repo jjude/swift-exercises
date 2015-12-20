@@ -8,7 +8,10 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 
 2. [Palindrome Check][3]: Write a program to check if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like "racecar"
 
+3. [Unique elements from arrays][4]: Write a program to make an array of unique elements from two arrays
+
 
 [1]: https://developer.apple.com/swift/
 [2]: http://tech.jjude.com/swift-challenge-001
 [3]: http://tech.jjude.com/swift-challenge-002
+[3]: http://tech.jjude.com/swift-challenge-003
