@@ -14,4 +14,4 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 [1]: https://developer.apple.com/swift/
 [2]: http://tech.jjude.com/swift-challenge-001
 [3]: http://tech.jjude.com/swift-challenge-002
-[3]: http://tech.jjude.com/swift-challenge-003
+[4]: http://tech.jjude.com/swift-challenge-003
