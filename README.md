@@ -14,6 +14,7 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 
 5. [Sort words][6]: Write a program that takes a comma separated sequence of words and prints the words in a comma-separated sequence after sorting them alphabetically.
 
+6. [Stringify numbers][7]: Take an array of numbers, concatenate the even numbers as a string.
 
 [1]: https://developer.apple.com/swift/
 [2]: http://tech.jjude.com/swift-challenge-001
@@ -21,3 +22,4 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 [4]: http://tech.jjude.com/swift-challenge-003
 [5]: http://tech.jjude.com/swift-challenge-004
 [6]: http://tech.jjude.com/swift-challenge-005
+[7]: http://tech.jjude.com/swift-challenge-006
