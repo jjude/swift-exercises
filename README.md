@@ -16,6 +16,8 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 
 6. [Stringify numbers][7]: Take an array of numbers, concatenate the even numbers as a string.
 
+7. [Luh's Algorithm][8]: Validate credit card number with Luh's algorithm
+
 [1]: https://developer.apple.com/swift/
 [2]: http://tech.jjude.com/swift-challenge-001
 [3]: http://tech.jjude.com/swift-challenge-002
@@ -23,3 +25,4 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 [5]: http://tech.jjude.com/swift-challenge-004
 [6]: http://tech.jjude.com/swift-challenge-005
 [7]: http://tech.jjude.com/swift-challenge-006
+[8]: http://tech.jjude.com/swift-challenge-007
