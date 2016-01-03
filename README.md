@@ -16,7 +16,9 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 
 6. [Stringify numbers][7]: Take an array of numbers, concatenate the even numbers as a string.
 
-7. [Luh's Algorithm][8]: Validate credit card number with Luh's algorithm
+7. [Luhn's Algorithm][8]: Validate credit card number with Luhn's algorithm
+
+8. [Pangram Check][9]: Write a program to check if the string entered by the user is a pangrams. Pangrams are sentences constructed by using every letter of the alphabet at least once.
 
 [1]: https://developer.apple.com/swift/
 [2]: http://tech.jjude.com/swift-challenge-001
@@ -26,3 +28,4 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 [6]: http://tech.jjude.com/swift-challenge-005
 [7]: http://tech.jjude.com/swift-challenge-006
 [8]: http://tech.jjude.com/swift-challenge-007
+[9]: http://tech.jjude.com/swift-challenge-008
