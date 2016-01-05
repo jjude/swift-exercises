@@ -20,6 +20,8 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 
 8. [Pangram Check][9]: Write a program to check if the string entered by the user is a pangrams. Pangrams are sentences constructed by using every letter of the alphabet at least once.
 
+9. [Upper and lower case letters][10]: Write a program to count upper and lower case letters in a given string.
+
 [1]: https://developer.apple.com/swift/
 [2]: http://tech.jjude.com/swift-challenge-001
 [3]: http://tech.jjude.com/swift-challenge-002
@@ -29,3 +31,4 @@ When I started learning [Swift][1], I was looking for programming challenges / p
 [7]: http://tech.jjude.com/swift-challenge-006
 [8]: http://tech.jjude.com/swift-challenge-007
 [9]: http://tech.jjude.com/swift-challenge-008
+[10]: http://tech.jjude.com/swift-challenge-009
